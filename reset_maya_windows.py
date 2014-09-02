@@ -1,5 +1,7 @@
 """
 Description: Resets maya windows to default location, handy if windows are lost when switching from screen to single screens.
+
+Usage: Copy into maya script window and hit run. Alternatively, middle-click and drag the selected script to the shelf in order to create a shortcut icon
 """
 __author__ = "Shane Marks"
 
